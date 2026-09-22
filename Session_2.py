@@ -22,6 +22,7 @@ else:
 #  single-line comment
 print("Hello, World!")
 
+# Multi-line comment
 """
 This acts as a multiline comment
 using triple double-quotes.
